@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://blogs.veliger.cn/2018/02/25/%E6%B5%8B%E8%AF%953/</loc>
+    <lastmod>2018-02-26T15:46:52.110Z</lastmod>
+    <data>
+        <display>
+        <title>测试3</title>
+        <pubTime>2018-02-25T13:23:00.000Z</pubTime>
+        
+        <tag>测试3</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blogs.veliger.cn/2018/02/25/%E6%B5%8B%E8%AF%952/</loc>
+    <lastmod>2018-02-26T15:46:41.444Z</lastmod>
+    <data>
+        <display>
+        <title>测试2</title>
+        <pubTime>2018-02-25T13:22:55.000Z</pubTime>
+        
+        <tag>无标签</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试2" url="http://blogs.veliger.cn/categories/%E6%B5%8B%E8%AF%952/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blogs.veliger.cn/2018/02/25/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2018-02-26T15:46:27.170Z</lastmod>
+    <data>
+        <display>
+        <title>测试</title>
+        <pubTime>2018-02-25T13:22:19.000Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+             
+              <breadCrumb title="测试" url="http://blogs.veliger.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://blogs.veliger.cn/2018/02/23/hello-world/</loc>
+    <lastmod>2018-02-23T10:40:22.645Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-02-23T10:40:22.645Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
