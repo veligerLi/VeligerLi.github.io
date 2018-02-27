@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blogs.veliger.cn/"/>
-  <updated>2018-02-26T15:46:52.110Z</updated>
+  <updated>2018-02-27T15:37:13.476Z</updated>
   <id>http://blogs.veliger.cn/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于学习Java</title>
+    <link href="http://blogs.veliger.cn/2018/02/27/%E5%85%B3%E4%BA%8E%E5%AD%A6%E4%B9%A0Java/"/>
+    <id>http://blogs.veliger.cn/2018/02/27/关于学习Java/</id>
+    <published>2018-02-27T15:33:05.000Z</published>
+    <updated>2018-02-27T15:37:13.476Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="主标题"><a href="#主标题" class="headerlink" title="主标题"></a>主标题</h2>]]></content>
+    
+    <summary type="html">
+    
+      秒速信息
+    
+    </summary>
+    
+      <category term="分类信息系" scheme="http://blogs.veliger.cn/categories/%E5%88%86%E7%B1%BB%E4%BF%A1%E6%81%AF%E7%B3%BB/"/>
+    
+    
+      <category term="表圈" scheme="http://blogs.veliger.cn/tags/%E8%A1%A8%E5%9C%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://blogs.veliger.cn/2018/02/27/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://blogs.veliger.cn/2018/02/27/我的第一篇博客/</id>
+    <published>2018-02-27T11:53:42.000Z</published>
+    <updated>2018-02-27T15:24:57.756Z</updated>
+    
+    <content type="html"><![CDATA[<p>#主题1</p><h2 id="卡夫卡"><a href="#卡夫卡" class="headerlink" title="卡夫卡"></a>卡夫卡</h2><h1 id="主题二"><a href="#主题二" class="headerlink" title="主题二"></a>主题二</h1>]]></content>
+    
+    <summary type="html">
+    
+      这个是描述信息
+    
+    </summary>
+    
+      <category term="测试" scheme="http://blogs.veliger.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="这个是标签" scheme="http://blogs.veliger.cn/tags/%E8%BF%99%E4%B8%AA%E6%98%AF%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>测试3</title>
